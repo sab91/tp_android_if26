@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ben_miled_tp04</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="but1">G01</string>
+    <string name="but2">G02</string>
+    <string name="but3">G03</string>
+    <string name="but4">G04</string>
+</resources>

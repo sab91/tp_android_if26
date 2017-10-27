@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addModule" android:title="addModule"></item>
+    <item android:id="@+id/delModule" android:title="delModule"></item>
+    <item android:id="@+id/listSigle" android:title="listSigle"></item>
+    <item android:id="@+id/listModule" android:title="listModule"></item>
+
+</menu>
